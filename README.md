@@ -129,15 +129,11 @@ ambedkargpt/
 ├── main.py                 # Main application file
 ├── evaluation.py           # Evaluation framework
 ├── requirements.txt        # Python dependencies
-├── setup.py               # Package setup
-├── test_dataset.json      # Test questions and answers
 ├── README.md              # This file
 ├── corpus/                # Document corpus
-│   ├── speech1.txt
-│   ├── speech2.txt
-│   └── ...
-├── chroma_db/             # Vector database (auto-generated)
-└── test_results_*.json    # Evaluation results
+    ├── speech1.txt
+    ├── speech2.txt
+    └── ...
 ```
 
 ## Evaluation Framework
